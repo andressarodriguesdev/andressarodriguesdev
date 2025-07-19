@@ -42,21 +42,21 @@
 
 ## 💼 Projetos em destaque
 
-### 🔧 [ChamaElas](https://lnkd.in/dyN6Xt9f)  
+### 🔧 [ChamaElas](https://github.com/andressarodriguesdev/chamaelas.git)  
 Sistema de gestão de chamados (Bootcamp ElasTech 2024)  
 🛠️ Java | Spring Boot | Thymeleaf | MySQL | JUnit | Mockito  
 📌 Melhorou a eficiência do gerenciamento de chamados com atribuição de técnicos e interface amigável.
 
 ---
 
-### 🧾 [Admin Stay](https://github.com/andressarodrigues2172dev/admin-stay)  
+### 🧾 [Admin Stay](https://github.com/andressarodriguesdev/Admin_Stay_Front.git)  
 Sistema Full Stack para gestão de hotéis  
 🛠️ Java (Spring Boot) | React | Tailwind CSS | Docker | Swagger  
 📌 Cadastro de clientes e reservas, histórico e deploy em nuvem com API documentada.
 
 ---
 
-### 🐾 [Capivara System](https://github.com/andressarodrigues2172dev/capivara-system)  
+### 🐾 [Capivara System](https://github.com/andressarodriguesdev/capivara_system.git)  
 Aplicação para cadastro e gerenciamento de capivaras  
 🛠️ Node.js | Vue.js | MongoDB  
 📌 Foco em CRUD e filtros por habitat, com experiência prática em front + back.
