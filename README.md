@@ -12,7 +12,7 @@
 
 ## 📚 O que estou fazendo
 
-- 👩🏽‍🎓 Me desenvolvendo como back-end dev com foco em APIs REST com Java e Spring Boot  
+- 🎓 Estudante de Sistemas da Informação, com foco em desenvolvimento de software e interesse em explorar aplicações com IA generativa. 
 - 💡 Construindo sistemas completos com integração de banco de dados e autenticação  
 - 🚀 Trabalhando em projetos pessoais com deploy em nuvem e documentação com Swagger  
 
